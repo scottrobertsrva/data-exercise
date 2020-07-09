@@ -15,10 +15,10 @@ Place data files (student.csv, teacher.parquet) in app/data
 ### Run App
 Execute from app root dir:
 
-python __main__.py
+```python __main__.py```
 
 ### Tests
 Execute from app root dir:
 
-python -m unittest test.test_app
+```python -m unittest test.test_app```
 
