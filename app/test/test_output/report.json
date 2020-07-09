@@ -1,0 +1,35 @@
+[
+{
+ "student_id": "1",
+ "f_name": "Dniren",
+ "l_name": "Dewbury",
+ "email": "ddewbury0@illinois.edu",
+ "ssn": "498-19-2152",
+ "address": "63083 Jana Point",
+ "cid": "1",
+ "teacher_f_name": "Trenna",
+ "teacher_l_name": "Chasney"
+},
+{
+ "student_id": "2",
+ "f_name": "Marten",
+ "l_name": "Catanheira",
+ "email": "mcatanheira1@nyu.edu",
+ "ssn": "734-61-0692",
+ "address": "7 Lawn Alley",
+ "cid": "2",
+ "teacher_f_name": "Tate",
+ "teacher_l_name": "Weekley"
+},
+{
+ "student_id": "3",
+ "f_name": "Shae",
+ "l_name": "Olivet",
+ "email": "solivet2@guardian.co.uk",
+ "ssn": "633-18-3236",
+ "address": "5 Golf View Alley",
+ "cid": "3",
+ "teacher_f_name": "Jessa",
+ "teacher_l_name": "Gibbs"
+}
+]
