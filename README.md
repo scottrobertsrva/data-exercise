@@ -6,9 +6,11 @@ Python 3.7
 ### Setup
 Create venv outside app dir:
 
-python -m venv venv
-source venv/Scripts/activate
-pip install -r requirements.txt
+```python -m venv venv```
+
+```source venv/Scripts/activate```
+
+```pip install -r requirements.txt```
 
 Place data files (student.csv, teacher.parquet) in app/data
 
